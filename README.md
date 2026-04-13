@@ -23,7 +23,6 @@ Core proposal entities currently tracked in this repo:
 
 ```text
 .
-├── CLAUDE.md
 ├── README.md
 ├── requirements.txt
 ├── Generate_Data/

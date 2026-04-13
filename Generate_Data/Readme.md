@@ -72,8 +72,8 @@ The verifier checks:
 
 ## Notes About NULL Requirement
 
-Your rubric says each table should include NULL values.
+The rubric says each table should include NULL values.
 
 - This generator intentionally includes NULL-like blanks in most tables.
 - `product_tags` is currently a pure junction table with only key columns, so NULLs are structurally awkward.
-- If your instructor strictly enforces NULLs in every table, add one optional non-key attribute to `product_tags`.
+- If NULLs in every table is required, add one optional non-key attribute to `product_tags`.
