@@ -31,7 +31,9 @@ Core proposal entities currently tracked in this repo:
 │   ├── verify_integrity.py
 │   └── Readme.md
 ├── Docs/
-│   └── PA2.pptx
+│   ├── PA2.pptx
+│   ├── Proposal.pptx
+│   └── Team_Mango_ERD.pdf
 ├── sql/
 │   └── Queries.sql
 └── .gitignore
